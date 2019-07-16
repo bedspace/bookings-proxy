@@ -1,0 +1,22 @@
+#root {
+  width: 100%;
+}
+
+#reviews {
+  border: 1px solid #000;
+  height: auto;
+  width: 500px;
+  margin: 30px 0 50px 175px;
+  float: left;
+}
+
+#bookings {
+  margin: 30px 175px 50px 0;
+  float: right;
+}
+
+#relatedListings {
+  clear: right;
+  border: 1px solid #fff;
+  margin: 0 100px;
+}
