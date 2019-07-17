@@ -1,5 +1,21 @@
+body {
+  margin: 0;
+}
+
+#navBar {
+  /* border: 1px solid #000; */
+  margin: 0;
+}
+
+.navImage {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
 #root {
   width: 100%;
+  margin: 0;
 }
 
 #reviews {
@@ -11,7 +27,7 @@
 }
 
 #bookings {
-  margin: 30px 175px 50px 0;
+  margin: 30px 205px 50px 0;
   float: right;
 }
 
