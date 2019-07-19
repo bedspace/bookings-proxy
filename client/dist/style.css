@@ -3,7 +3,6 @@ body {
 }
 
 #navBar {
-  /* border: 1px solid #000; */
   margin: 0;
 }
 
@@ -18,21 +17,46 @@ body {
   margin: 0;
 }
 
-#reviews {
-  border: 1px solid #000;
+#descriptions {
   height: auto;
-  width: 500px;
-  margin: 30px 0 50px 175px;
+  width: 700px;
+  margin: 15px 0 0px 75px;
   float: left;
 }
 
+.descriptionsSS {
+  height: auto;
+  width: 650px;
+  margin: 0 0 0 83px;
+}
+
+#reviews {
+  height: auto;
+  width: 700px;
+  margin: 0px 0 50px 75px;
+  float: left;
+}
+
+.reviewsSSFirst {
+  height: auto;
+  width: 700px;
+  margin: 0 0 0 45px;
+}
+
+.reviewsSS {
+  height: auto;
+  width: 650px;
+  margin: 0 0 0 70px;
+}
+
 #bookings {
-  margin: 30px 205px 50px 0;
+  margin: 30px 180px 50px 0;
   float: right;
 }
 
-#relatedListings {
+#related-listings {
   clear: right;
+  text-align: center;
   border: 1px solid #fff;
   margin: 0 100px;
 }
